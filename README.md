@@ -1,13 +1,13 @@
 # DBFoundations-Module07
 Assignment07
 
-#**FUNCTIONS**
+<H1>**FUNCTIONS**</H1>
 
-##**Introduction**
+<H2>**Introduction**</H2>
 
 MS SQL, like many other database programs, has many useful built-in standard functions. In addition, users are able create their own functions.  These are called user-defined functions. Functions are very useful as they save time and maintain data integrity.
 
-##**SQL User Defined Functions**
+**SQL User Defined Functions**
 
 Like views and stored procedures, UDF’s save time by calling upon saved script to run results. Limited storage is needed and the code is concealed which provides a layer of security. Applications are not interrupted if the script needs modification. SQL UDF’s are very useful for performing repetitive operations on your data. The function can be written once and called upon over and over. Unlike views, UDF’s allow parameters. Parameters act to control the input and user can define the output.
 
