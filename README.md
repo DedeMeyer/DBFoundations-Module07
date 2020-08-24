@@ -1,7 +1,7 @@
 # DBFoundations-Module07
 Assignment07
 
-<h1>**FUNCTIONS**</h1>
+# **FUNCTIONS**
 
 <h2>**Introduction**</h2>
 
